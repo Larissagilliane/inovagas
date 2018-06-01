@@ -1,14 +1,14 @@
-- Criação de perfil (Para todos. Diferente para empresa, aluno e administrador).
-- Criação/Edição de vaga (Para a empresa)
-- Listagem/Busca de vagas (Para todos)
-- Listagem de vagas inscritas (Para os alunos). Aqui o aluno pode ver as vagas que se candidatou e cancelar o interesse em vagas.
+- Criação de perfil (Para todos. Diferente para empresa, aluno e administrador). (CRUD do usuário)
+- Criação/Edição de vaga (Para a empresa). (CRUD da vaga)
+- Listagem/Busca de vagas (Para todos). (Retorna vagas cadastradas no banco)
+- Listagem de vagas inscritas (Para os alunos). Aqui o aluno pode ver as vagas que se candidatou e cancelar o interesse em vagas, (Relação do aluno e vaga).
 - Login no sistema (Para todos).
 - Listagem de empresas pré-cadastradas e aprovação (Para o administrador).
-- Listagem de vagas que criou (Para a empresa).
+- Listagem de vagas criadas (Para a empresa).
 	- Listagem das vagas que a empresa criou.
-	- Exclusão/Cancelamento de vagas
-	- Publicar vaga
-	- Passagem da fase de recolhimento de currículos para a fase de seleção.
+	- Exclusão/Cancelamento de vagas.
+	- Publicar vaga.
+	- Passagem de fase de recolhimento de inscrições para a fase de seleção.
 	- Seleção dos alunos que participarão da seleção.
 	- Preenchimento do horário, local e data para a entrevista para cada aluno.
 	- Preenchimento em lote do horário, local e data.
