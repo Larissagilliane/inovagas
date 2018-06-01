@@ -7,8 +7,9 @@
 - Listagem de vagas que criou (Para a empresa).
 	- Listagem das vagas que a empresa criou.
 	- Exclusão/Cancelamento de vagas
+	- Publicar vaga
 	- Passagem da fase de recolhimento de currículos para a fase de seleção.
 	- Seleção dos alunos que participarão da seleção.
 	- Preenchimento do horário, local e data para a entrevista para cada aluno.
 	- Preenchimento em lote do horário, local e data.
-- Listagem de candidatos (Para a empresa).
+	- Listagem de candidatos que se candidadataram em uma vaga.
